@@ -1,1 +1,3 @@
-rm -rq
+rust
+a.out
+*.tar.gz*
